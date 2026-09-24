@@ -1,0 +1,6 @@
+{
+  "name": "LINE Sticker Studio",
+  "description": "แอพมือถือตัดสติกเกอร์ LINE แบบ 2x2 Grid พร้อมอัลกอริทึมลบพื้นหลัง 5 ขั้นตอน ปรับแต่งขอบขาว และแพ็กไฟล์ ZIP ตามสเปค LINE Creators Market",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
